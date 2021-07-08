@@ -1,0 +1,126 @@
+@media (max-width: 992px) {
+  .promo{
+    &__menu{
+      display: none;
+    }
+    &__logo{
+      margin-left: 370px;
+    }
+  }
+  .finances{
+    &__text{
+      font-size: 55px;
+    }
+    &__p{
+      font-size: 14px;
+      padding-bottom: 4px;
+    }
+    &__image{
+      img{
+        width: 470px;
+        margin-top: 65px;
+      }
+    }
+    &__btn{
+      margin-left: 380px;
+    }
+
+  }
+  .switch__text{
+    text-align: center;
+  }
+  .switch__btn{
+    margin-left: 380px;
+  }
+  .plans{
+    &__text{
+      text-align: center;
+    }
+  }
+  .companies{
+    &__img1{
+      margin-left: 80px;
+    }
+&__img{
+  margin-left: 80px;
+}
+    &__img2{
+margin-left: 30px;
+    }
+    &__img3{
+      margin-left: 30px;
+    }
+    &__img4{
+      margin-left: 50px;
+    }
+    &__img5{
+      margin-left: 20px;
+    }
+    &__img6{
+      margin-left: 50px;
+    }
+    &__img7{
+      margin-left: 42px;
+    }
+  }
+  .hub{
+    img{
+      width: 400px;
+      margin-top: 85px;
+    }
+    &__btn{
+      margin-top: 10px;
+    }
+  }
+  .expert{
+    margin-top: 1px;
+    &__box{
+      width: 99%;
+    }
+    &__button{
+      padding-left: 30px;
+    }
+  }
+}
+@media (max-width: 768px) {
+  .promo{
+    &__logo{
+      margin-left: 300px;
+    }
+  }
+  .finances{
+    &__image{
+      img{
+        width: 380px;
+        margin-top: 135px;
+      }
+    }
+    &__btn{
+      margin-left: 300px;
+    }
+  }
+  .stack{
+    margin-top: 1px;
+    &__img{
+      img{
+        width: 300px;
+        margin-top: 10px;
+      }
+    }
+    &__text{
+      font-size: 40px;
+      margin-top: 150px;
+    }
+    &__p{
+      font-size: 10px;
+    }
+  }
+  .switch{
+    &__text{
+      margin-top: 2px;
+    }
+    &__btn{
+      margin-left: 250px;
+    }
+  }
+}

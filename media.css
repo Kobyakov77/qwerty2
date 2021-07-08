@@ -1,0 +1,113 @@
+@media (max-width: 992px) {
+  .promo__menu {
+    display: none;
+  }
+  .promo__logo {
+    margin-left: 370px;
+  }
+
+  .finances__text {
+    font-size: 55px;
+  }
+  .finances__p {
+    font-size: 14px;
+    padding-bottom: 4px;
+  }
+  .finances__image img {
+    width: 470px;
+    margin-top: 65px;
+  }
+  .finances__btn {
+    margin-left: 380px;
+  }
+
+  .switch__text {
+    text-align: center;
+  }
+
+  .switch__btn {
+    margin-left: 380px;
+  }
+
+  .plans__text {
+    text-align: center;
+  }
+
+  .companies__img1 {
+    margin-left: 80px;
+  }
+  .companies__img {
+    margin-left: 80px;
+  }
+  .companies__img2 {
+    margin-left: 30px;
+  }
+  .companies__img3 {
+    margin-left: 30px;
+  }
+  .companies__img4 {
+    margin-left: 50px;
+  }
+  .companies__img5 {
+    margin-left: 20px;
+  }
+  .companies__img6 {
+    margin-left: 50px;
+  }
+  .companies__img7 {
+    margin-left: 42px;
+  }
+
+  .hub img {
+    width: 400px;
+    margin-top: 85px;
+  }
+  .hub__btn {
+    margin-top: 10px;
+  }
+
+  .expert {
+    margin-top: 1px;
+  }
+  .expert__box {
+    width: 99%;
+  }
+  .expert__button {
+    padding-left: 30px;
+  }
+}
+@media (max-width: 768px) {
+  .promo__logo {
+    margin-left: 300px;
+  }
+
+  .finances__image img {
+    width: 380px;
+    margin-top: 135px;
+  }
+  .finances__btn {
+    margin-left: 300px;
+  }
+
+  .stack {
+    margin-top: 1px;
+  }
+  .stack__img img {
+    width: 300px;
+    margin-top: 10px;
+  }
+  .stack__text {
+    font-size: 40px;
+    margin-top: 150px;
+  }
+  .stack__p {
+    font-size: 10px;
+  }
+
+  .switch__text {
+    margin-top: 2px;
+  }
+  .switch__btn {
+    margin-left: 250px;
+  }
+}
